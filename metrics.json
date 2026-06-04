@@ -1,0 +1,656 @@
+{
+  "servers": {
+    "1": {
+      "players": 49,
+      "scans": 2
+    },
+    "2": {
+      "players": 43,
+      "scans": 3
+    },
+    "3": {
+      "players": 49,
+      "scans": 3
+    },
+    "4": {
+      "players": 76,
+      "scans": 3
+    },
+    "5": {
+      "players": 88,
+      "scans": 3
+    },
+    "6": {
+      "players": 47,
+      "scans": 3
+    },
+    "7": {
+      "players": 62,
+      "scans": 3
+    },
+    "8": {
+      "players": 90,
+      "scans": 3
+    },
+    "9": {
+      "players": 63,
+      "scans": 2
+    },
+    "10": {
+      "players": 52,
+      "scans": 3
+    },
+    "11": {
+      "players": 36,
+      "scans": 2
+    },
+    "12": {
+      "players": 30,
+      "scans": 2
+    },
+    "13": {
+      "players": 31,
+      "scans": 2
+    },
+    "14": {
+      "players": 29,
+      "scans": 2
+    },
+    "15": {
+      "players": 79,
+      "scans": 2
+    },
+    "16": {
+      "players": 38,
+      "scans": 2
+    },
+    "17": {
+      "players": 47,
+      "scans": 2
+    },
+    "18": {
+      "players": 36,
+      "scans": 2
+    },
+    "19": {
+      "players": 58,
+      "scans": 2
+    },
+    "20": {
+      "players": 106,
+      "scans": 2
+    },
+    "21": {
+      "players": 61,
+      "scans": 2
+    },
+    "22": {
+      "players": 38,
+      "scans": 2
+    },
+    "23": {
+      "players": 37,
+      "scans": 2
+    },
+    "24": {
+      "players": 74,
+      "scans": 1
+    },
+    "25": {
+      "players": 27,
+      "scans": 2
+    },
+    "26": {
+      "players": 42,
+      "scans": 2
+    },
+    "27": {
+      "players": 46,
+      "scans": 2
+    },
+    "28": {
+      "players": 35,
+      "scans": 2
+    },
+    "29": {
+      "players": 61,
+      "scans": 2
+    },
+    "30": {
+      "players": 25,
+      "scans": 2
+    },
+    "31": {
+      "players": 25,
+      "scans": 2
+    },
+    "32": {
+      "players": 58,
+      "scans": 2
+    },
+    "33": {
+      "players": 33,
+      "scans": 2
+    },
+    "34": {
+      "players": 20,
+      "scans": 2
+    },
+    "35": {
+      "players": 41,
+      "scans": 2
+    },
+    "36": {
+      "players": 29,
+      "scans": 2
+    },
+    "37": {
+      "players": 55,
+      "scans": 2
+    },
+    "38": {
+      "players": 32,
+      "scans": 2
+    },
+    "39": {
+      "players": 21,
+      "scans": 2
+    },
+    "40": {
+      "players": 32,
+      "scans": 2
+    },
+    "41": {
+      "players": 124,
+      "scans": 2
+    },
+    "42": {
+      "players": 72,
+      "scans": 2
+    },
+    "43": {
+      "players": 15,
+      "scans": 2
+    },
+    "44": {
+      "players": 61,
+      "scans": 2
+    },
+    "45": {
+      "players": 52,
+      "scans": 2
+    },
+    "46": {
+      "players": 28,
+      "scans": 2
+    },
+    "47": {
+      "players": 66,
+      "scans": 2
+    },
+    "48": {
+      "players": 47,
+      "scans": 2
+    },
+    "49": {
+      "players": 37,
+      "scans": 2
+    },
+    "50": {
+      "players": 21,
+      "scans": 1
+    },
+    "51": {
+      "players": 18,
+      "scans": 1
+    },
+    "52": {
+      "players": 33,
+      "scans": 2
+    },
+    "53": {
+      "players": 47,
+      "scans": 2
+    },
+    "54": {
+      "players": 19,
+      "scans": 1
+    },
+    "55": {
+      "players": 34,
+      "scans": 1
+    },
+    "56": {
+      "players": 22,
+      "scans": 1
+    },
+    "59": {
+      "players": 58,
+      "scans": 1
+    },
+    "60": {
+      "players": 16,
+      "scans": 1
+    },
+    "61": {
+      "players": 1,
+      "scans": 1
+    },
+    "62": {
+      "players": 25,
+      "scans": 1
+    },
+    "63": {
+      "players": 62,
+      "scans": 1
+    },
+    "64": {
+      "players": 12,
+      "scans": 1
+    },
+    "65": {
+      "players": 16,
+      "scans": 1
+    },
+    "66": {
+      "players": 8,
+      "scans": 1
+    },
+    "67": {
+      "players": 18,
+      "scans": 1
+    },
+    "68": {
+      "players": 56,
+      "scans": 1
+    },
+    "69": {
+      "players": 17,
+      "scans": 1
+    },
+    "70": {
+      "players": 18,
+      "scans": 1
+    },
+    "71": {
+      "players": 9,
+      "scans": 1
+    },
+    "74": {
+      "players": 18,
+      "scans": 1
+    },
+    "75": {
+      "players": 7,
+      "scans": 1
+    },
+    "76": {
+      "players": 6,
+      "scans": 1
+    },
+    "77": {
+      "players": 9,
+      "scans": 1
+    },
+    "sm-1": {
+      "players": 634,
+      "scans": 64
+    },
+    "sm-2": {
+      "players": 435,
+      "scans": 70
+    },
+    "sm-23": {
+      "players": 377,
+      "scans": 52
+    },
+    "sm-45": {
+      "players": 492,
+      "scans": 29
+    },
+    "sm-3": {
+      "players": 1962,
+      "scans": 70
+    },
+    "sm-67": {
+      "players": 372,
+      "scans": 38
+    },
+    "sm-24": {
+      "players": 934,
+      "scans": 52
+    },
+    "sm-46": {
+      "players": 421,
+      "scans": 43
+    },
+    "sm-4": {
+      "players": 1519,
+      "scans": 70
+    },
+    "sm-68": {
+      "players": 1941,
+      "scans": 35
+    },
+    "sm-25": {
+      "players": 415,
+      "scans": 51
+    },
+    "sm-47": {
+      "players": 613,
+      "scans": 43
+    },
+    "sm-5": {
+      "players": 1847,
+      "scans": 66
+    },
+    "sm-69": {
+      "players": 669,
+      "scans": 37
+    },
+    "sm-48": {
+      "players": 605,
+      "scans": 42
+    },
+    "sm-6": {
+      "players": 447,
+      "scans": 63
+    },
+    "sm-70": {
+      "players": 479,
+      "scans": 36
+    },
+    "sm-27": {
+      "players": 284,
+      "scans": 35
+    },
+    "sm-49": {
+      "players": 460,
+      "scans": 40
+    },
+    "sm-7": {
+      "players": 762,
+      "scans": 63
+    },
+    "sm-71": {
+      "players": 371,
+      "scans": 37
+    },
+    "sm-28": {
+      "players": 822,
+      "scans": 50
+    },
+    "sm-50": {
+      "players": 472,
+      "scans": 40
+    },
+    "sm-8": {
+      "players": 724,
+      "scans": 60
+    },
+    "sm-29": {
+      "players": 517,
+      "scans": 54
+    },
+    "sm-51": {
+      "players": 625,
+      "scans": 37
+    },
+    "sm-9": {
+      "players": 1223,
+      "scans": 40
+    },
+    "sm-30": {
+      "players": 1152,
+      "scans": 48
+    },
+    "sm-52": {
+      "players": 390,
+      "scans": 39
+    },
+    "sm-74": {
+      "players": 428,
+      "scans": 34
+    },
+    "sm-10": {
+      "players": 1733,
+      "scans": 59
+    },
+    "sm-31": {
+      "players": 338,
+      "scans": 51
+    },
+    "sm-53": {
+      "players": 639,
+      "scans": 36
+    },
+    "sm-75": {
+      "players": 346,
+      "scans": 33
+    },
+    "sm-11": {
+      "players": 725,
+      "scans": 61
+    },
+    "sm-32": {
+      "players": 770,
+      "scans": 45
+    },
+    "sm-54": {
+      "players": 386,
+      "scans": 40
+    },
+    "sm-76": {
+      "players": 227,
+      "scans": 35
+    },
+    "sm-12": {
+      "players": 651,
+      "scans": 56
+    },
+    "sm-33": {
+      "players": 1522,
+      "scans": 46
+    },
+    "sm-55": {
+      "players": 419,
+      "scans": 40
+    },
+    "sm-77": {
+      "players": 1281,
+      "scans": 34
+    },
+    "sm-13": {
+      "players": 453,
+      "scans": 53
+    },
+    "sm-34": {
+      "players": 1672,
+      "scans": 44
+    },
+    "sm-56": {
+      "players": 397,
+      "scans": 40
+    },
+    "sm-14": {
+      "players": 260,
+      "scans": 53
+    },
+    "sm-35": {
+      "players": 724,
+      "scans": 44
+    },
+    "sm-15": {
+      "players": 974,
+      "scans": 57
+    },
+    "sm-36": {
+      "players": 1874,
+      "scans": 42
+    },
+    "sm-16": {
+      "players": 482,
+      "scans": 53
+    },
+    "sm-37": {
+      "players": 1201,
+      "scans": 44
+    },
+    "sm-59": {
+      "players": 417,
+      "scans": 40
+    },
+    "sm-17": {
+      "players": 612,
+      "scans": 55
+    },
+    "sm-38": {
+      "players": 593,
+      "scans": 42
+    },
+    "sm-18": {
+      "players": 492,
+      "scans": 50
+    },
+    "sm-61": {
+      "players": 247,
+      "scans": 36
+    },
+    "sm-39": {
+      "players": 300,
+      "scans": 44
+    },
+    "sm-19": {
+      "players": 1275,
+      "scans": 53
+    },
+    "sm-62": {
+      "players": 791,
+      "scans": 38
+    },
+    "sm-40": {
+      "players": 1466,
+      "scans": 43
+    },
+    "sm-20": {
+      "players": 346,
+      "scans": 52
+    },
+    "sm-63": {
+      "players": 1623,
+      "scans": 36
+    },
+    "sm-41": {
+      "players": 916,
+      "scans": 44
+    },
+    "sm-21": {
+      "players": 565,
+      "scans": 50
+    },
+    "sm-64": {
+      "players": 1102,
+      "scans": 36
+    },
+    "sm-42": {
+      "players": 913,
+      "scans": 40
+    },
+    "sm-22": {
+      "players": 269,
+      "scans": 51
+    },
+    "sm-65": {
+      "players": 488,
+      "scans": 34
+    },
+    "sm-43": {
+      "players": 1170,
+      "scans": 43
+    },
+    "sm-66": {
+      "players": 308,
+      "scans": 34
+    },
+    "sm-44": {
+      "players": 1004,
+      "scans": 41
+    },
+    "sm-58": {
+      "players": 35,
+      "scans": 5
+    },
+    "sm-26": {
+      "players": 796,
+      "scans": 48
+    },
+    "sm-72": {
+      "players": 50,
+      "scans": 5
+    },
+    "sm-73": {
+      "players": 44,
+      "scans": 4
+    },
+    "sm-80": {
+      "players": 155,
+      "scans": 10
+    },
+    "sm-60": {
+      "players": 889,
+      "scans": 34
+    },
+    "sm-57": {
+      "players": 26,
+      "scans": 7
+    },
+    "sm-81": {
+      "players": 8,
+      "scans": 6
+    },
+    "sm-78": {
+      "players": 837,
+      "scans": 18
+    },
+    "sm-82": {
+      "players": 10,
+      "scans": 8
+    },
+    "sm-85": {
+      "players": 6,
+      "scans": 4
+    },
+    "sm-87": {
+      "players": 1,
+      "scans": 1
+    },
+    "sm-83": {
+      "players": 5,
+      "scans": 3
+    },
+    "sm-88": {
+      "players": 4,
+      "scans": 4
+    },
+    "sm-84": {
+      "players": 5,
+      "scans": 5
+    },
+    "sm-90": {
+      "players": 9,
+      "scans": 4
+    },
+    "sm-79": {
+      "players": 12,
+      "scans": 5
+    },
+    "sm-86": {
+      "players": 2,
+      "scans": 2
+    },
+    "sm-89": {
+      "players": 1,
+      "scans": 1
+    }
+  }
+}
