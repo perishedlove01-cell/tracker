@@ -105,7 +105,7 @@ process.on('unhandledRejection', (reason, promise) => {
 // ============================================
  
 // Discord bot token (from Discord Developer Portal)
-const DISCORD_TOKEN = 'MTUxMTQyMDYyNzA0MTM4Njc1Nw.GgXBES.93CwvvYs1tutMyU4ZvUCCUcuvekRItjIvOiacs';
+const DISCORD_TOKEN = 'MTUxMTQyMDYyNzA0MTM4Njc1Nw.G5FGDI.PDlxZ-AIczt_af-lyIzQoymIbOd7IWe_2_PHUw';
  
 // Role required to use admin commands (anyone can use /flag)
 const REQUIRED_ROLE = 'admin';
