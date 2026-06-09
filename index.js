@@ -105,7 +105,7 @@ process.on('unhandledRejection', (reason, promise) => {
 // ============================================
  
 // Discord bot token (from Discord Developer Portal)
-const DISCORD_TOKEN = 'MTUxMTQyMDYyNzA0MTM4Njc1Nw.GoSq39.aT0m0DmLAMAbMOmlSWKHHVEvcJYIOiNJGh6BBg';
+const DISCORD_TOKEN = process.env.DISCORD_TOKEN;
  
 // Role required to use admin commands (anyone can use /flag)
 const REQUIRED_ROLE = 'admin';
@@ -121,7 +121,7 @@ const XBOX_AUTH = {
     BOT5: './auth/bot5'
 };
  
-// ============================================
+// ===========================================
 // BOT SETTINGS (usually don't need to change)
 // ============================================
  
@@ -132,7 +132,7 @@ const CONFIG = {
     
     MAX_SM: 90,
     MAX_PS: 24,
-    MAX_FAILURES: 4,
+    MAX_FAILURES: 8,
     
     // Reserve bot settings
     TPA_TIMEOUT: 30000,        // 30 seconds to accept TPA
